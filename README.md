@@ -8,4 +8,4 @@
 - 🥅 Goals: Write more blogs
 - ⚡ Fun fact: I love to play basketball
 
-<img align="left" alt="Erik's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ErikXu&show_icons=true&hide_border=true" />
+![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikXu&show_icons=true&theme=dark)
