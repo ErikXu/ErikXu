@@ -1,7 +1,5 @@
 ### Hi there, I'm Erik Xu 👋  
 
-[![Years Badge](https://badges.pufler.dev/years/ErikXu)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/ErikXu)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ErikXu.visitor-badge)
 
 ## I'm a Tech Enthusiast
